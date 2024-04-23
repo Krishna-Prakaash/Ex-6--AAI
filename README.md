@@ -1,5 +1,5 @@
-<H3>Name : Kaushika A</H3>
-<H3>Reg No : 212221230048</H3>
+<H3>Name : KRISHNA PRAKAASH D M</H3>
+<H3>Reg No : 212221230052</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE: 16.04.2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
